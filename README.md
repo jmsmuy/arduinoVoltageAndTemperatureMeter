@@ -1,4 +1,4 @@
-# arduino_volt_temp_meter_sevseg
+# Arduino Voltage and Temperature meter for BMW E23/E24/E28/E30 Check Control Panel
 
 ## Objective
 The objective is a simple 3 digit, 7 segment display (actually 8) and a button with the capabilities to show either voltage or temperature. More specifically, I created this program so that I could put this 7 segment display inside a BMW 535is e28 check panel (should also work for other similar check panels)
